@@ -1,8 +1,6 @@
-![image](http://f.cl.ly/items/1F0y2N1W3V1M1v2m2k1C/wdtuts-logo.png)
 
 #Website Launch Checklist
 
-At [FHOKE](http://www.fhoke.com) we’ve been through it all, from perfect launches to ones that have turned into complete nightmares! Through our experiences we’ve compiled a list, in no particular order, of a process we go through before we launch our sites. 
 
 This won’t cover everything, but should give you a quick overview of what you could be doing or adding to your own checklist.
 
@@ -134,4 +132,4 @@ So you’ve launched the site, it’s working great and the client is happy, now
 - **Analytics**: In order to suggest improvements going forwards ask to be set up on the client's analytics, this way you can monitor traffic and site stats for the client and suggest improvements over the following month and year after launch.
 
 ***
-Let us know your launch checklist recommendations [on Webdesigntuts+](http://enva.to/XpDQqR)
+Let us know your launch checklist recommendations [on my github page](https://github.com/TheLast22)
